@@ -1,0 +1,14 @@
+{
+  "name": "The Cheeserino",
+  "description": "This pie has every cheese in the shop on it. The cheese density is equal to that of Jupiter's moon Io.",
+  "image": "https://ipfs.io/ipfs/QmXmVJj5ibVX6VBu9syoo9aLknKahBPDPKn6gkfFMMeXub",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "wings of an angel" },
+    { "trait_type": "Appearance ", "value": "flattened" },
+    { "trait_type": "Aroma (Italian)", "value": "favoloso" },
+    { "trait_type": "Aroma (English)", "value": "stinky" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "silly like philly" }
+  ]
+}

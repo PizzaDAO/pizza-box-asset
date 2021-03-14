@@ -1,0 +1,14 @@
+{
+  "name": "Udderly Insane Pizza",
+  "description": "To the MoooooN!",
+  "image": "https://ipfs.io/ipfs/QmYg5LCwzeyP4YuBv9vm9nuGPrrwnHKuxYv5fBwojdT8qz",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "parachute" },
+    { "trait_type": "Appearance ", "value": "dented" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "stuffed crust" },
+    { "trait_type": "Pizza Personality ", "value": "chatty chad " }
+  ]
+}

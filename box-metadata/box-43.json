@@ -1,0 +1,14 @@
+{
+  "name": "Healthy Option",
+  "description": "A pizza probably covered in inedible meme ingredients.",
+  "image": "https://ipfs.io/ipfs/QmRNo93qa1JW529e8WXaJ6JzpynWUq5HbZBKD2HeBKnA88",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "DMC DeLoreon " },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "don't ask" },
+    { "trait_type": "Pizza ", "value": "pumpernickel" },
+    { "trait_type": "Pizza Personality ", "value": "smug as a rug" }
+  ]
+}

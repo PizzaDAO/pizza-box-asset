@@ -1,0 +1,14 @@
+{
+  "name": "Pi Pie",
+  "description": "The ultimate Pi. 3.14159265358979",
+  "image": "https://ipfs.io/ipfs/QmXAyK6foHEgZGvQ6uAk8CtMZ41Y2beezKQMkn2Udq4WsN",
+  "attributes": [
+    { "trait_type": "Driver", "value": "your crush " },
+    { "trait_type": "Whip", "value": "McLaren F1" },
+    { "trait_type": "Appearance ", "value": "compostable" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "fabulous" },
+    { "trait_type": "Pizza ", "value": "challah" },
+    { "trait_type": "Pizza Personality ", "value": "smug as a rug" }
+  ]
+}

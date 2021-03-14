@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmQXZ5UiMD38iWnL1KAdqLdVKwZZcfA98FGzwyo77Yu1DC", "attributes": {"Driver": "funny", "Looks Good": "covered in crayons", "aroma italian": "bacon", "aroma english": "don't ask", "": "", "pizza properties?": "tatertot ", "Whip": "jetpack"}}
+{
+  "name": "Planetary Pizza",
+  "description": "Out of this world pie.",
+  "image": "https://ipfs.io/ipfs/QmbYNh7SxYU53QCvRz4tJhr5Jmhh7mU9VZowPaRLqg1nME",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "lambo" },
+    { "trait_type": "Appearance ", "value": "used" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "organic" },
+    { "trait_type": "Pizza Personality ", "value": "mysterious " }
+  ]
+}

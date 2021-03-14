@@ -1,0 +1,14 @@
+{
+  "name": "Crustylicious",
+  "description": "Nothing but delicious crusty crust",
+  "image": "https://ipfs.io/ipfs/QmeZaPrgMhJuPJx9FQrgV1hphLpnswYVQfgqQjLQPN8ybc",
+  "attributes": [
+    { "trait_type": "Driver", "value": "under-age" },
+    { "trait_type": "Whip", "value": "Tata Tigor" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "aglio pesante " },
+    { "trait_type": "Aroma (English)", "value": "extraordinary" },
+    { "trait_type": "Pizza ", "value": "pumpernickel" },
+    { "trait_type": "Pizza Personality ", "value": "chatty chad " }
+  ]
+}

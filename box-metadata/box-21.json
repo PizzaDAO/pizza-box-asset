@@ -1,0 +1,14 @@
+{
+  "name": "Doxing Pie",
+  "description": "Electric Identity, we know who you are.",
+  "image": "https://ipfs.io/ipfs/QmRExGdfXU9n7WGDJxzd1XCy4G8i5UZhxWypfAQnVqZyKj",
+  "attributes": [
+    { "trait_type": "Driver", "value": "texting" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "fresco" },
+    { "trait_type": "Aroma (English)", "value": "perfect" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "radical duddeee" }
+  ]
+}

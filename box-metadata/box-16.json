@@ -1,0 +1,14 @@
+{
+  "name": "The Deep Dish Donatello",
+  "description": "From the streets of Chicago this radical pie is DEEP.",
+  "image": "https://ipfs.io/ipfs/QmTxthNLCynwiJr5icursR9kiaerhsy8qQs55UHaExWeRR",
+  "attributes": [
+    { "trait_type": "Driver", "value": "your crush " },
+    { "trait_type": "Whip", "value": "1972 Ford Pinto" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "mostarda" },
+    { "trait_type": "Aroma (English)", "value": "extraordinary" },
+    { "trait_type": "Pizza ", "value": "pita" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

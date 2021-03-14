@@ -1,0 +1,14 @@
+{
+  "name": "From Topping to Dough",
+  "description": "Why was this pizza made backward?",
+  "image": "https://ipfs.io/ipfs/QmRAeEjmVYxz1gJ6vA3Ec5Ln123pgF7MP3niXKhMNT5Cwr",
+  "attributes": [
+    { "trait_type": "Driver", "value": "loud" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "covered in crayons" },
+    { "trait_type": "Aroma (Italian)", "value": "aglio pesante " },
+    { "trait_type": "Aroma (English)", "value": "fresh" },
+    { "trait_type": "Pizza ", "value": "soggy" },
+    { "trait_type": "Pizza Personality ", "value": "radical duddeee" }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/Qmf2gQPsXn82ajQ9aaBxtSW6WTqQFSa1t7Kmi8oWtzy6oq", "attributes": {"Driver": "charming", "Looks Good": "dented", "aroma italian": "mostarda", "aroma english": "fresh", "": "", "pizza properties?": "pumpernickel", "Whip": "drone"}}
+{
+  "name": "The Funky Anchovy",
+  "description": "Ew, what stinks? Cute anchovies!",
+  "image": "https://ipfs.io/ipfs/QmNwzKSPyvqKwRBVJKVgip1C1y2ujGySY5Q3QSRpV2pH9a",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "DMC DeLoreon " },
+    { "trait_type": "Appearance ", "value": "covered in crayons" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "bacon" },
+    { "trait_type": "Pizza ", "value": "tatertot " },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

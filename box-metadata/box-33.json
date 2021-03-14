@@ -1,0 +1,14 @@
+{
+  "name": "Pizzarino",
+  "description": "Howdily Doodily Pizzarino.",
+  "image": "https://ipfs.io/ipfs/QmTwUb3PSDH2zxizc1bqAxLXLDdb2H3Rna4R33L9UBFkDX",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "McLaren F1" },
+    { "trait_type": "Appearance ", "value": "flattened" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "mustard" },
+    { "trait_type": "Pizza ", "value": "challah" },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Manic Sundae",
+  "description": "Icecream on Pizza for the severely depressed.",
+  "image": "https://ipfs.io/ipfs/QmVLz6TzkMMctQ3Zs6EKsPgpz5D9NGsM466pF5xW9SEhaV",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "jetpack" },
+    { "trait_type": "Appearance ", "value": "flattened" },
+    { "trait_type": "Aroma (Italian)", "value": "mostarda" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "corn bread" },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

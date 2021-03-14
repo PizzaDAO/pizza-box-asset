@@ -1,0 +1,14 @@
+{
+  "name": "Pizza Poppin",
+  "description": "Rockin toppings to get you poppin",
+  "image": "https://ipfs.io/ipfs/QmcfCLufKJv2bLsBgf8CDeFsEo5Kvd4DuDxXXg1asSYNkv",
+  "attributes": [
+    { "trait_type": "Driver", "value": "charming" },
+    { "trait_type": "Whip", "value": "Tesla Truck" },
+    { "trait_type": "Appearance ", "value": "banged-up" },
+    { "trait_type": "Aroma (Italian)", "value": "fresco" },
+    { "trait_type": "Aroma (English)", "value": "superb" },
+    { "trait_type": "Pizza ", "value": "pita" },
+    { "trait_type": "Pizza Personality ", "value": "smort boi " }
+  ]
+}

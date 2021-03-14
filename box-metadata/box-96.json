@@ -1,0 +1,14 @@
+{
+  "name": "Clockwork Pizza",
+  "description": "Pizza with Orange slices arranged clockwise on 3, 6, 9 & 12. ",
+  "image": "https://ipfs.io/ipfs/QmRvzSvmdd8f51scCBb48FZ1HNzDidh1EdS7GTfj5rFSqZ",
+  "attributes": [
+    { "trait_type": "Driver", "value": "suave" },
+    { "trait_type": "Whip", "value": "UFO" },
+    { "trait_type": "Appearance ", "value": "pristine " },
+    { "trait_type": "Aroma (Italian)", "value": "favoloso" },
+    { "trait_type": "Aroma (English)", "value": "mustard" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

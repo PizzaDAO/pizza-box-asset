@@ -1,0 +1,14 @@
+{
+  "name": "Molto Bene!",
+  "description": "Molto bene!",
+  "image": "https://ipfs.io/ipfs/QmaBZeHVE25SxaossougTbaQeapQ7V4KSa37xZUzowuXLh",
+  "attributes": [
+    { "trait_type": "Driver", "value": "charming" },
+    { "trait_type": "Whip", "value": "McLaren F1" },
+    { "trait_type": "Appearance ", "value": "corrugated" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "chewy" },
+    { "trait_type": "Pizza Personality ", "value": "smug as a rug" }
+  ]
+}

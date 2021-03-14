@@ -1,0 +1,14 @@
+{
+  "name": "The 7-11",
+  "description": "Anytime you need that slice of heaven",
+  "image": "https://ipfs.io/ipfs/QmcHEJSvftiRYWKjk3HPV5fQGznEMs5VcNsM8S4jKZ7MXA",
+  "attributes": [
+    { "trait_type": "Driver", "value": "clumsy" },
+    { "trait_type": "Whip", "value": "1978 Trans Am Firebird or Camero" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "scilian" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

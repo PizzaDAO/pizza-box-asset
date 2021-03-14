@@ -1,0 +1,14 @@
+{
+  "name": "Flour Power",
+  "description": "Is this pizza spiked?",
+  "image": "https://ipfs.io/ipfs/QmVotDPJuDqcw43G79J1vRw59ZzUyqjxR5Tfs1TJJjrWdj",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "1978 Trans Am Firebird or Camero" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "fresh" },
+    { "trait_type": "Pizza ", "value": "focaccia" },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

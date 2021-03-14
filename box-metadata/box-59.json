@@ -1,0 +1,14 @@
+{
+  "name": "German Sausage Fest",
+  "description": "Wieners, Franks and Bratwursts with Sauerkraut and Sweet Mustard - for every dudes' night in. it's german tradition!",
+  "image": "https://ipfs.io/ipfs/QmWW132yD2wkhAHzFb5XkLsmvZoAnmnEusRw3k3Y6yLXcU",
+  "attributes": [
+    { "trait_type": "Driver", "value": "drunk" },
+    { "trait_type": "Whip", "value": "bicycle" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "don't ask" },
+    { "trait_type": "Pizza ", "value": "stuffed crust" },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmNRMZQtpV61FtpcNrNLRYW3ksx6n7eDCmK8vSTcuFktEo", "attributes": {"Driver": "under-age", "Looks Good": "flattened", "aroma italian": "perfezion", "aroma english": "mustard", "": "", "pizza properties?": "pumpernickel", "Whip": "Bugatti Chiron"}}
+{
+  "name": "Minimum Viable Pizza",
+  "description": "The first and only pie minted directly from Shrimp's oven and the chef's choice. Take it or leave it, Shrimp don't care.",
+  "image": "https://ipfs.io/ipfs/QmNRMZQtpV61FtpcNrNLRYW3ksx6n7eDCmK8vSTcuFktEo",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "stretch limo" },
+    { "trait_type": "Appearance ", "value": "heavy" },
+    { "trait_type": "Aroma (Italian)", "value": "bacon" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "focaccia" },
+    { "trait_type": "Pizza Personality ", "value": "patient and understanding" }
+  ]
+}

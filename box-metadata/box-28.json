@@ -1,0 +1,14 @@
+{
+  "name": "Pizzazza!",
+  "description": "Pi pi pi pi pizzzzaaaza za za!",
+  "image": "https://ipfs.io/ipfs/QmNtCk6qnjDhNoqJEW5xfqbjjaGJcVVSiWahrtx31tFC7S",
+  "attributes": [
+    { "trait_type": "Driver", "value": "charming" },
+    { "trait_type": "Whip", "value": "1987 toyota tacoma" },
+    { "trait_type": "Appearance ", "value": "used" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "stinky" },
+    { "trait_type": "Pizza ", "value": "glutten free" },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

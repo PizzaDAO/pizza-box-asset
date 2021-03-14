@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmcTpip2KLnDW7b7yavg7VD98P5CEtW8bFkg5TV6Ex4iQd", "attributes": {"Driver": "smelly", "Looks Good": "grease-stained ", "aroma italian": "paradiso", "aroma english": "city bus", "": "", "pizza properties?": "tatertot ", "Whip": "drone"}}
+{
+  "name": "MEME-lover",
+  "description": "Wow such pizza very pepperoni ",
+  "image": "https://ipfs.io/ipfs/QmNgrR3bYKTKgioaP7GCpodx98Mq8smNxLP7WWBj18Y5Qz",
+  "attributes": [
+    { "trait_type": "Driver", "value": "handsome" },
+    { "trait_type": "Whip", "value": "lambo" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "pipping hot " },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

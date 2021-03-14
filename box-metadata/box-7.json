@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmbYNh7SxYU53QCvRz4tJhr5Jmhh7mU9VZowPaRLqg1nME", "attributes": {"Driver": "hipster", "Looks Good": "banged-up", "aroma italian": "fresco", "aroma english": "delicious", "": "", "pizza properties?": "pita", "Whip": "stretch limo"}}
+{
+  "name": "The Happy Flour",
+  "description": "Flour used in this pizza is free-range organic.",
+  "image": "https://ipfs.io/ipfs/QmcTpip2KLnDW7b7yavg7VD98P5CEtW8bFkg5TV6Ex4iQd",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "bicycle" },
+    { "trait_type": "Appearance ", "value": "biodegradable " },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "flowery" },
+    { "trait_type": "Pizza ", "value": "soggy" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "The Prime",
+  "description": "Pizza in disguise. Or is it in the skies?",
+  "image": "https://ipfs.io/ipfs/QmTUAMCZu2HP9NveMu5Q56KHAJRUSN1yMaxK1dKCZpVH38",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "stretch limo" },
+    { "trait_type": "Appearance ", "value": "grease-stained " },
+    { "trait_type": "Aroma (Italian)", "value": "mostarda" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

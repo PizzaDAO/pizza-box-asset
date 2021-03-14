@@ -1,0 +1,14 @@
+{
+  "name": "Cereal Killer",
+  "description": "Topped with a choice of three breakfast cereals of your choice. Must be eaten with a spoon.",
+  "image": "https://ipfs.io/ipfs/QmbTC2bgMnYCY3gDLAjStotUpEXgptCcgjPzPamgCWJoR2",
+  "attributes": [
+    { "trait_type": "Driver", "value": "clumsy" },
+    { "trait_type": "Whip", "value": "UFO" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "don't ask" },
+    { "trait_type": "Pizza ", "value": "crispy" },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

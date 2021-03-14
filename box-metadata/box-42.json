@@ -1,0 +1,14 @@
+{
+  "name": "Macaroni Meltdown",
+  "description": "Mac n Cheese n Cheese n Cheese Pizza",
+  "image": "https://ipfs.io/ipfs/QmRwHzpKVUjZ8ssKiBTgWcHrwn5Q2uNpksVwztVxvpGKHU",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "magnifico" },
+    { "trait_type": "Aroma (English)", "value": "magnificent" },
+    { "trait_type": "Pizza ", "value": "chewy" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

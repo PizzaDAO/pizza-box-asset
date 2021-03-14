@@ -1,0 +1,14 @@
+{
+  "name": "The Pizzasmith",
+  "description": "Pizza forged by Norse Gods.",
+  "image": "https://ipfs.io/ipfs/QmYbsJJ1V96xZFELSzcB3udGNxT6nFKug8xofXWSuLjSYi",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "wings of an angel" },
+    { "trait_type": "Appearance ", "value": "corrugated" },
+    { "trait_type": "Aroma (Italian)", "value": "paradiso" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "pipping hot " },
+    { "trait_type": "Pizza Personality ", "value": "smort boi " }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmNgrR3bYKTKgioaP7GCpodx98Mq8smNxLP7WWBj18Y5Qz", "attributes": {"Driver": "naked", "Looks Good": "banged-up", "aroma italian": "mostarda", "aroma english": "fresh", "": "", "pizza properties?": "thin crust", "Whip": "jetpack"}}
+{
+  "name": "Pretty Pizza",
+  "description": " Buy me pizza and tell me I'm pretty",
+  "image": "https://ipfs.io/ipfs/Qmf2gQPsXn82ajQ9aaBxtSW6WTqQFSa1t7Kmi8oWtzy6oq",
+  "attributes": [
+    { "trait_type": "Driver", "value": "late" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "magnificent" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

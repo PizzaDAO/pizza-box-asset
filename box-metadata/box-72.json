@@ -1,0 +1,14 @@
+{
+  "name": "Teenage Mutant Pizza",
+  "description": "An 80s classic",
+  "image": "https://ipfs.io/ipfs/Qmc9oPVqdAL3JJqra6N7YoD8Mm1MPhhZeBncVS78Jvu5sA",
+  "attributes": [
+    { "trait_type": "Driver", "value": "old" },
+    { "trait_type": "Whip", "value": "1972 Ford Pinto" },
+    { "trait_type": "Appearance ", "value": "corrugated" },
+    { "trait_type": "Aroma (Italian)", "value": "perfezion" },
+    { "trait_type": "Aroma (English)", "value": "flowery" },
+    { "trait_type": "Pizza ", "value": "organic" },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

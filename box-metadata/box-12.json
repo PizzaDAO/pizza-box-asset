@@ -1,0 +1,14 @@
+{
+  "name": "Pandemic Pie",
+  "description": "So good, it's infectious!",
+  "image": "https://ipfs.io/ipfs/QmYb7xDT9JjA5eQvVQjx5xRHY38YBAu9PM4s7gn2cq7vGr",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "wings of an angel" },
+    { "trait_type": "Appearance ", "value": "compostable" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "tatertot " },
+    { "trait_type": "Pizza Personality ", "value": "happy go lucky" }
+  ]
+}

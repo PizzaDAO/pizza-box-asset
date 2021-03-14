@@ -1,0 +1,14 @@
+{
+  "name": "Sheperds pie",
+  "description": "filled with candy canes and string cheese beards - Baa Baa",
+  "image": "https://ipfs.io/ipfs/QmeJBew8G2Rva7MC7eUQreeL46ZUUFNFTKpm4HXVCf2EUx",
+  "attributes": [
+    { "trait_type": "Driver", "value": "hipster" },
+    { "trait_type": "Whip", "value": "UFO" },
+    { "trait_type": "Appearance ", "value": "flattened" },
+    { "trait_type": "Aroma (Italian)", "value": "fresco" },
+    { "trait_type": "Aroma (English)", "value": "heaven" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

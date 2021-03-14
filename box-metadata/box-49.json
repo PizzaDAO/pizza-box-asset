@@ -1,0 +1,14 @@
+{
+  "name": "Paku Paku",
+  "description": "Sugoi!",
+  "image": "https://ipfs.io/ipfs/QmcX7hBARtKS7pmKsTKdDu4Z34nB55kyVCDgmDrGsr5vHg",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "Aston Martin" },
+    { "trait_type": "Appearance ", "value": "grease-stained " },
+    { "trait_type": "Aroma (Italian)", "value": "non chiedere" },
+    { "trait_type": "Aroma (English)", "value": "bacon" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "smug as a rug" }
+  ]
+}

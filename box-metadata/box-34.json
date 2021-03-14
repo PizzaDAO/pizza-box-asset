@@ -1,0 +1,14 @@
+{
+  "name": "In on Pizza",
+  "description": "Tucked under warm cheese and sauce",
+  "image": "https://ipfs.io/ipfs/QmWRzKu1KgNzYjoLQjQqFUH3CC6Rt9KaENMbR4sjV4DuNn",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "rocket car" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "fresh" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "chatty chad " }
+  ]
+}

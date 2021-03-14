@@ -1,0 +1,14 @@
+{
+  "name": "The Filler",
+  "description": "Hope you\u2019re wearing elasticated pants",
+  "image": "https://ipfs.io/ipfs/QmTFeh2JvL6tB6EjiapjFfexzhycLjKxgmbRdc8FT7iomK",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "biodegradable " },
+    { "trait_type": "Aroma (Italian)", "value": "favoloso" },
+    { "trait_type": "Aroma (English)", "value": "perfect" },
+    { "trait_type": "Pizza ", "value": "pretzel " },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

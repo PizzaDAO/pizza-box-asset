@@ -1,0 +1,14 @@
+{
+  "name": "Don Udon",
+  "description": "It's umami for your mami!",
+  "image": "https://ipfs.io/ipfs/Qmc4KZRAaSQGQiV7mYpk4TeJQD46LLhVU7ZYRKypvuuePr",
+  "attributes": [
+    { "trait_type": "Driver", "value": "smelly" },
+    { "trait_type": "Whip", "value": "1978 Trans Am Firebird or Camero" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "focaccia" },
+    { "trait_type": "Pizza Personality ", "value": "patient and understanding" }
+  ]
+}

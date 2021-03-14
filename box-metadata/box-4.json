@@ -1,1 +1,14 @@
-{"name": "Rare Box", "description": "What's in the box you ask?  Something delicious, amore.", "image": "https://ipfs.io/ipfs/QmRfWRUhYv7R72WE9psp3xZwNfxU4rAP6uR41EpL5LgmPk", "attributes": {"Driver": "loud", "Looks Good": "used", "aroma italian": "puzzolente", "aroma english": "fresh", "": "", "pizza properties?": "tatertot ", "Whip": "Kawasaki Ninja H2R"}}
+{
+  "name": "Pandora's Box",
+  "description": "It devours you",
+  "image": "https://ipfs.io/ipfs/QmZi3kdf4fSQ2tnRNVVbgRBPt7KVmwjXRGK6a7di5tH5bA",
+  "attributes": [
+    { "trait_type": "Driver", "value": "handsome" },
+    { "trait_type": "Whip", "value": "1972 Ford Pinto" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "flowery" },
+    { "trait_type": "Pizza ", "value": "butter crust" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

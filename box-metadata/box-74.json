@@ -1,0 +1,14 @@
+{
+  "name": "The Pizza Empire Slices Back",
+  "description": "An 80s classic",
+  "image": "https://ipfs.io/ipfs/QmYfiR74832ga5p41G2Ra1vhwATrCAgVdzg55rs3TCG62u",
+  "attributes": [
+    { "trait_type": "Driver", "value": "sweaty" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "corrugated" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "delicious" },
+    { "trait_type": "Pizza ", "value": "pumpernickel" },
+    { "trait_type": "Pizza Personality ", "value": "happy go lucky" }
+  ]
+}

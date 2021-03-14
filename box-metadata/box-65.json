@@ -1,0 +1,14 @@
+{
+  "name": "Iron Pie in the Sky",
+  "description": "A UFO themed pizza dough, with iron filings so even the cheapest of metal detetetcors can detect the presence of cosmic radiation that can be attributed to interstellar travel, declaring the pizza a snack of extra-terrestrial excavation. ",
+  "image": "https://ipfs.io/ipfs/QmetdFn5TAiJPS5YseGRZGy7cGhWnL6z3kNFUbTTxhjLnX",
+  "attributes": [
+    { "trait_type": "Driver", "value": "clumsy" },
+    { "trait_type": "Whip", "value": "Tata Tigor" },
+    { "trait_type": "Appearance ", "value": "banged-up" },
+    { "trait_type": "Aroma (Italian)", "value": "delizioso" },
+    { "trait_type": "Aroma (English)", "value": "citrus" },
+    { "trait_type": "Pizza ", "value": "corn bread" },
+    { "trait_type": "Pizza Personality ", "value": "mysterious " }
+  ]
+}

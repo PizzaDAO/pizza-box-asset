@@ -1,0 +1,14 @@
+{
+  "name": "Pandora's Box",
+  "description": "It devours you.",
+  "image": "https://ipfs.io/ipfs/QmTV2BWswGpy4x1Xy5rnDek68u7NApeSqkbWk759y5bg83",
+  "attributes": [
+    { "trait_type": "Driver", "value": "old" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "unbreakable" },
+    { "trait_type": "Aroma (Italian)", "value": "paradiso" },
+    { "trait_type": "Aroma (English)", "value": "fresh" },
+    { "trait_type": "Pizza ", "value": "pipping hot " },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}
