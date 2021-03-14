@@ -1,1 +1,14 @@
-{"name": "A Tangle of Wood", "description": "Pizza with unconventional toppings.", "image": "https://ipfs.io/ipfs/QmbskynYp1ASN6pD153w9pPvy8jLx4dC9kWYNXBQde6jAW", "attributes": [{"trait_type": "Driver", "value": "clumsy"}, {"trait_type": "Whip", "value": "Bugatti Chiron"}, {"trait_type": "Appearance ", "value": "folded"}, {"trait_type": "Aroma (Italian)", "value": "non chiedere"}, {"trait_type": "Aroma (English)", "value": "flowery"}, {"trait_type": "Pizza ", "value": "corn bread"}, {"trait_type": "Pizza Personality ", "value": "hot tempered"}]}
+{
+  "name": "A Tangle of Wood",
+  "description": "Pizza with unconventional toppings.",
+  "image": "https://ipfs.io/ipfs/QmbskynYp1ASN6pD153w9pPvy8jLx4dC9kWYNXBQde6jAW",
+  "attributes": [
+    { "trait_type": "Driver", "value": "charming" },
+    { "trait_type": "Whip", "value": "Tata Tigor" },
+    { "trait_type": "Appearance ", "value": "heavy" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "delicious" },
+    { "trait_type": "Pizza ", "value": "chewy" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "Moonpie", "description": "If the moon was made out of BBQ spare ribs would you eat it?", "image": "https://ipfs.io/ipfs/QmUiZ1Xkr8MdtfQFMQPfkb8PHK43eFRDi6RXR3XdmDkfTb", "attributes": [{"trait_type": "Driver", "value": "late"}, {"trait_type": "Whip", "value": "vespa"}, {"trait_type": "Appearance ", "value": "corrugated"}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "superb"}, {"trait_type": "Pizza ", "value": "pita"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "Moonpie",
+  "description": "If the moon was made out of BBQ spare ribs would you eat it?",
+  "image": "https://ipfs.io/ipfs/QmUiZ1Xkr8MdtfQFMQPfkb8PHK43eFRDi6RXR3XdmDkfTb",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "1968 Oldsmobile Cutlass" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "pretzel " },
+    { "trait_type": "Pizza Personality ", "value": "do u even lift, bro?" }
+  ]
+}

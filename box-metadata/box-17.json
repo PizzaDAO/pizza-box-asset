@@ -1,1 +1,14 @@
-{"name": "The Happy Flour ", "description": "Flour used in this pizza is free-range organic.", "image": "https://ipfs.io/ipfs/QmYFJFEPgNFLW64PbhRGAMHoPB59QCYxrrLHscJ5Q4F6Tn", "attributes": [{"trait_type": "Driver", "value": "old"}, {"trait_type": "Whip", "value": "Tesla Truck"}, {"trait_type": "Appearance ", "value": "biodegradable "}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "bacon"}, {"trait_type": "Pizza ", "value": "pumpernickel"}, {"trait_type": "Pizza Personality ", "value": "cool as a cucumber "}]}
+{
+  "name": "MEATeor ",
+  "description": "Meat the apocalypse. ",
+  "image": "https://ipfs.io/ipfs/QmYFJFEPgNFLW64PbhRGAMHoPB59QCYxrrLHscJ5Q4F6Tn",
+  "attributes": [
+    { "trait_type": "Driver", "value": "stoned" },
+    { "trait_type": "Whip", "value": "rocket car" },
+    { "trait_type": "Appearance ", "value": "unbreakable" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "pita" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

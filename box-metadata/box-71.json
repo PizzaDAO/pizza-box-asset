@@ -1,1 +1,14 @@
-{"name": "Pimja", "description": "A pizza with dogecoin on it. ", "image": "https://ipfs.io/ipfs/QmcfRvLhzGZQE6SUjQWjwUZ4BCGgrVSW2S7HE9dX7hnLv2", "attributes": [{"trait_type": "Driver", "value": "smelly"}, {"trait_type": "Whip", "value": "rocket car"}, {"trait_type": "Appearance ", "value": "dented"}, {"trait_type": "Aroma (Italian)", "value": "superbo"}, {"trait_type": "Aroma (English)", "value": "flowery"}, {"trait_type": "Pizza ", "value": "neapolitan"}, {"trait_type": "Pizza Personality ", "value": "cool as a cucumber "}]}
+{
+  "name": "Pimja",
+  "description": "A pizza with dogecoin on it. ",
+  "image": "https://ipfs.io/ipfs/QmcfRvLhzGZQE6SUjQWjwUZ4BCGgrVSW2S7HE9dX7hnLv2",
+  "attributes": [
+    { "trait_type": "Driver", "value": "texting" },
+    { "trait_type": "Whip", "value": "McLaren F1" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "non chiedere" },
+    { "trait_type": "Aroma (English)", "value": "extraordinary" },
+    { "trait_type": "Pizza ", "value": "pipping hot " },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

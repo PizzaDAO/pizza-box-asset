@@ -1,1 +1,14 @@
-{"name": "The Belle Pepper", "description": "Try the pizza, it's delicious! Don't believe me? Ask the dishes!", "image": "https://ipfs.io/ipfs/QmRExGdfXU9n7WGDJxzd1XCy4G8i5UZhxWypfAQnVqZyKj", "attributes": [{"trait_type": "Driver", "value": "your crush "}, {"trait_type": "Whip", "value": "1979 AMC Pacer"}, {"trait_type": "Appearance ", "value": "paper"}, {"trait_type": "Aroma (Italian)", "value": "bacon"}, {"trait_type": "Aroma (English)", "value": "fabulous"}, {"trait_type": "Pizza ", "value": "cake"}, {"trait_type": "Pizza Personality ", "value": "cool as a cucumber "}]}
+{
+  "name": "Doxing Pie",
+  "description": "Electric Identity, we know who you are.",
+  "image": "https://ipfs.io/ipfs/QmRExGdfXU9n7WGDJxzd1XCy4G8i5UZhxWypfAQnVqZyKj",
+  "attributes": [
+    { "trait_type": "Driver", "value": "texting" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "fresco" },
+    { "trait_type": "Aroma (English)", "value": "perfect" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "radical duddeee" }
+  ]
+}

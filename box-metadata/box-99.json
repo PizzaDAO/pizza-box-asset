@@ -1,1 +1,14 @@
-{"name": "A Plate Ornate", "description": "Toppings or decorations? What's the difference?", "image": "https://ipfs.io/ipfs/QmVzimsHCfty8Dz438HZxugr9mykjxr1i5iKcGHenCizt6", "attributes": [{"trait_type": "Driver", "value": "your crush "}, {"trait_type": "Whip", "value": "vespa"}, {"trait_type": "Appearance ", "value": "folded"}, {"trait_type": "Aroma (Italian)", "value": "magnifico"}, {"trait_type": "Aroma (English)", "value": "extraordinary"}, {"trait_type": "Pizza ", "value": "focaccia"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "Pepperoni Invaders",
+  "description": "Let the flavor invade your space buds!",
+  "image": "https://ipfs.io/ipfs/QmVzimsHCfty8Dz438HZxugr9mykjxr1i5iKcGHenCizt6",
+  "attributes": [
+    { "trait_type": "Driver", "value": "drunk" },
+    { "trait_type": "Whip", "value": "motorcycle" },
+    { "trait_type": "Appearance ", "value": "folded" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "superb" },
+    { "trait_type": "Pizza ", "value": "extra crust " },
+    { "trait_type": "Pizza Personality ", "value": "mysterious " }
+  ]
+}

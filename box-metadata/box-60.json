@@ -1,1 +1,14 @@
-{"name": "The Crimson Mist", "description": "Lots of tomato with more tomato sprayed on top. Topped with chopped tomatoes and delivered by people dressed as tomatoes.", "image": "https://ipfs.io/ipfs/QmYvNKEcFMXAncpX4HHuVNrJrLBGh2iwombz4CVLJBheAU", "attributes": [{"trait_type": "Driver", "value": "handsome"}, {"trait_type": "Whip", "value": "motorcycle"}, {"trait_type": "Appearance ", "value": "upside down "}, {"trait_type": "Aroma (Italian)", "value": "magnifico"}, {"trait_type": "Aroma (English)", "value": "fresh"}, {"trait_type": "Pizza ", "value": "focaccia"}, {"trait_type": "Pizza Personality ", "value": "patient and understanding"}]}
+{
+  "name": "The Crimson Mist",
+  "description": "Lots of tomato with more tomato sprayed on top. Topped with chopped tomatoes and delivered by people dressed as tomatoes.",
+  "image": "https://ipfs.io/ipfs/QmYvNKEcFMXAncpX4HHuVNrJrLBGh2iwombz4CVLJBheAU",
+  "attributes": [
+    { "trait_type": "Driver", "value": "old" },
+    { "trait_type": "Whip", "value": "DMC DeLoreon " },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "delizioso" },
+    { "trait_type": "Aroma (English)", "value": "superb" },
+    { "trait_type": "Pizza ", "value": "pumpernickel" },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

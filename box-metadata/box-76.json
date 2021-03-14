@@ -1,1 +1,14 @@
-{"name": "More CowBell", "description": "I've got a fever, and the only prescription is more cowbell", "image": "https://ipfs.io/ipfs/QmQCECQ6Nh1Kj1y9eNEuga7WQsBY2ZJM67MePM5JSKf8g9", "attributes": [{"trait_type": "Driver", "value": "under-age"}, {"trait_type": "Whip", "value": "lambo"}, {"trait_type": "Appearance ", "value": "paper"}, {"trait_type": "Aroma (Italian)", "value": "autobus"}, {"trait_type": "Aroma (English)", "value": "superb"}, {"trait_type": "Pizza ", "value": "soggy"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "More CowBell",
+  "description": "I've got a fever, and the only prescription is more cowbell.",
+  "image": "https://ipfs.io/ipfs/QmQCECQ6Nh1Kj1y9eNEuga7WQsBY2ZJM67MePM5JSKf8g9",
+  "attributes": [
+    { "trait_type": "Driver", "value": "handsome" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "covered in crayons" },
+    { "trait_type": "Aroma (Italian)", "value": "fresco" },
+    { "trait_type": "Aroma (English)", "value": "flowery" },
+    { "trait_type": "Pizza ", "value": "deepdish" },
+    { "trait_type": "Pizza Personality ", "value": "smort boi " }
+  ]
+}

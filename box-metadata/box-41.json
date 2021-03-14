@@ -1,1 +1,14 @@
-{"name": "German Sausage Fest", "description": "Wieners, Franks and Bratwursts with Sauerkraut and Sweet Mustard - for every dudes' night in. it's german tradition!", "image": "https://ipfs.io/ipfs/QmWtvetN87YxG3VuLXqac1b3NALyosAC5VBCwcY5DBBuFd", "attributes": [{"trait_type": "Driver", "value": "drunk"}, {"trait_type": "Whip", "value": "1972 Ford Pinto"}, {"trait_type": "Appearance ", "value": "folded"}, {"trait_type": "Aroma (Italian)", "value": "bacon"}, {"trait_type": "Aroma (English)", "value": "city bus"}, {"trait_type": "Pizza ", "value": "butter crust"}, {"trait_type": "Pizza Personality ", "value": "good listener "}]}
+{
+  "name": "German Sausage Fest",
+  "description": "Wieners, Franks and Bratwursts with Sauerkraut and Sweet Mustard - for every dudes' night in. it's german tradition!",
+  "image": "https://ipfs.io/ipfs/QmWtvetN87YxG3VuLXqac1b3NALyosAC5VBCwcY5DBBuFd",
+  "attributes": [
+    { "trait_type": "Driver", "value": "clumsy" },
+    { "trait_type": "Whip", "value": "parachute" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "scilian" },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

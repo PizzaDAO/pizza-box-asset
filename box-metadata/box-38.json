@@ -1,1 +1,14 @@
-{"name": "Gotta Sauce 'Em All", "description": "5 Sauces, 1 Pie. ", "image": "https://ipfs.io/ipfs/QmRbhzSiUz7zWPhHra7TazUXdkWtg7dRhQNuTyhJk3nVWg", "attributes": [{"trait_type": "Driver", "value": "drunk"}, {"trait_type": "Whip", "value": "1979 AMC Pacer"}, {"trait_type": "Appearance ", "value": "corrugated"}, {"trait_type": "Aroma (Italian)", "value": "favoloso"}, {"trait_type": "Aroma (English)", "value": "perfect"}, {"trait_type": "Pizza ", "value": "organic"}, {"trait_type": "Pizza Personality ", "value": "hot tempered"}]}
+{
+  "name": "Gotta Sauce 'Em All",
+  "description": "5 Sauces, 1 Pie. ",
+  "image": "https://ipfs.io/ipfs/QmRbhzSiUz7zWPhHra7TazUXdkWtg7dRhQNuTyhJk3nVWg",
+  "attributes": [
+    { "trait_type": "Driver", "value": "late" },
+    { "trait_type": "Whip", "value": "Bugatti Chiron" },
+    { "trait_type": "Appearance ", "value": "dented" },
+    { "trait_type": "Aroma (Italian)", "value": "autobus" },
+    { "trait_type": "Aroma (English)", "value": "delicious" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

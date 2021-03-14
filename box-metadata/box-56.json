@@ -1,1 +1,14 @@
-{"name": "Mom, Where's my Pony?", "description": "Birthday Pizza with andalusian donkey sausage for children who are into ponies.", "image": "https://ipfs.io/ipfs/QmUUvmAaybPU8np93FRz8t76LfnsovV3SokiCtEgEfCygf", "attributes": [{"trait_type": "Driver", "value": "clumsy"}, {"trait_type": "Whip", "value": "1987 toyota tacoma"}, {"trait_type": "Appearance ", "value": "biodegradable "}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "delicious"}, {"trait_type": "Pizza ", "value": "neapolitan"}, {"trait_type": "Pizza Personality ", "value": "radical duddeee"}]}
+{
+  "name": "Mom, Where's my Pony?",
+  "description": "Birthday Pizza with andalusian donkey sausage for children who are into ponies.",
+  "image": "https://ipfs.io/ipfs/QmUUvmAaybPU8np93FRz8t76LfnsovV3SokiCtEgEfCygf",
+  "attributes": [
+    { "trait_type": "Driver", "value": "hipster" },
+    { "trait_type": "Whip", "value": "motorcycle" },
+    { "trait_type": "Appearance ", "value": "pristine " },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "bacon" },
+    { "trait_type": "Pizza ", "value": "neapolitan" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

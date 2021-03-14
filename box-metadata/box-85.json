@@ -1,1 +1,14 @@
-{"name": "The Filler", "description": "Hope you\u2019re wearing elasticated pants", "image": "https://ipfs.io/ipfs/QmTFeh2JvL6tB6EjiapjFfexzhycLjKxgmbRdc8FT7iomK", "attributes": [{"trait_type": "Driver", "value": "sweaty"}, {"trait_type": "Whip", "value": "stretch limo"}, {"trait_type": "Appearance ", "value": "folded"}, {"trait_type": "Aroma (Italian)", "value": "perfezion"}, {"trait_type": "Aroma (English)", "value": "bacon"}, {"trait_type": "Pizza ", "value": "pipping hot "}, {"trait_type": "Pizza Personality ", "value": "chatty chad "}]}
+{
+  "name": "The Filler",
+  "description": "Hope you\u2019re wearing elasticated pants",
+  "image": "https://ipfs.io/ipfs/QmTFeh2JvL6tB6EjiapjFfexzhycLjKxgmbRdc8FT7iomK",
+  "attributes": [
+    { "trait_type": "Driver", "value": "naked" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "biodegradable " },
+    { "trait_type": "Aroma (Italian)", "value": "favoloso" },
+    { "trait_type": "Aroma (English)", "value": "perfect" },
+    { "trait_type": "Pizza ", "value": "pretzel " },
+    { "trait_type": "Pizza Personality ", "value": "good listener " }
+  ]
+}

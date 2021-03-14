@@ -1,1 +1,14 @@
-{"name": "Macaroni Meltdown", "description": "Mac n Cheese n Cheese n Cheese Pizza", "image": "https://ipfs.io/ipfs/QmRwHzpKVUjZ8ssKiBTgWcHrwn5Q2uNpksVwztVxvpGKHU", "attributes": [{"trait_type": "Driver", "value": "charming"}, {"trait_type": "Whip", "value": "motorcycle"}, {"trait_type": "Appearance ", "value": "flattened"}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "flowery"}, {"trait_type": "Pizza ", "value": "pretzel "}, {"trait_type": "Pizza Personality ", "value": "good listener "}]}
+{
+  "name": "Macaroni Meltdown",
+  "description": "Mac n Cheese n Cheese n Cheese Pizza",
+  "image": "https://ipfs.io/ipfs/QmRwHzpKVUjZ8ssKiBTgWcHrwn5Q2uNpksVwztVxvpGKHU",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "drone" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "magnifico" },
+    { "trait_type": "Aroma (English)", "value": "magnificent" },
+    { "trait_type": "Pizza ", "value": "chewy" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "", "description": "", "image": "https://ipfs.io/ipfs/QmZT1dCdsrBthYy9n23e7zgMdhFoUzMh2HgoZV7yzvhaom", "attributes": [{"trait_type": "Driver", "value": "charming"}, {"trait_type": "Whip", "value": "UFO"}, {"trait_type": "Appearance ", "value": "thick"}, {"trait_type": "Aroma (Italian)", "value": "straordinario"}, {"trait_type": "Aroma (English)", "value": "yummy "}, {"trait_type": "Pizza ", "value": "pita"}, {"trait_type": "Pizza Personality ", "value": "hot tempered"}]}
+{
+  "name": "A Plate Ornate",
+  "description": "Toppings or decorations? What's the difference?",
+  "image": "https://ipfs.io/ipfs/QmZT1dCdsrBthYy9n23e7zgMdhFoUzMh2HgoZV7yzvhaom",
+  "attributes": [
+    { "trait_type": "Driver", "value": "drunk" },
+    { "trait_type": "Whip", "value": "bicycle" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "mustard" },
+    { "trait_type": "Pizza ", "value": "glutten free" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

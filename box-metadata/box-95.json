@@ -1,1 +1,14 @@
-{"name": "2001: Pizza Odyssey", "description": "Rare Pizzas, only 2001 unique slices.", "image": "https://ipfs.io/ipfs/QmQUfEXG3YFsY49oxTwgwgdUyHroNAP9DZFMPLpPcK7XPA", "attributes": [{"trait_type": "Driver", "value": "hipster"}, {"trait_type": "Whip", "value": "wings of an angel"}, {"trait_type": "Appearance ", "value": "covered in crayons"}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "citrus"}, {"trait_type": "Pizza ", "value": "thin crust"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "2001: Pizza Odyssey",
+  "description": "Rare Pizzas, only 2001 unique slices.",
+  "image": "https://ipfs.io/ipfs/QmQUfEXG3YFsY49oxTwgwgdUyHroNAP9DZFMPLpPcK7XPA",
+  "attributes": [
+    { "trait_type": "Driver", "value": "late" },
+    { "trait_type": "Whip", "value": "1972 Ford Pinto" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "aglio pesante " },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "extra crust " },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

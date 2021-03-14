@@ -1,1 +1,14 @@
-{"name": "The Clubhouse Special", "description": "Highly addictive & will keep you up all night", "image": "https://ipfs.io/ipfs/QmefTtQvgYtsqS6oYWwn7mPJimBLiDyE7sN9VwaNMXGxad", "attributes": [{"trait_type": "Driver", "value": "loud"}, {"trait_type": "Whip", "value": "rocket car"}, {"trait_type": "Appearance ", "value": "strong"}, {"trait_type": "Aroma (Italian)", "value": "delizioso"}, {"trait_type": "Aroma (English)", "value": "yummy "}, {"trait_type": "Pizza ", "value": "pita"}, {"trait_type": "Pizza Personality ", "value": "patient and understanding"}]}
+{
+  "name": "The Clubhouse Special",
+  "description": "Highly addictive & will keep you up all night",
+  "image": "https://ipfs.io/ipfs/QmefTtQvgYtsqS6oYWwn7mPJimBLiDyE7sN9VwaNMXGxad",
+  "attributes": [
+    { "trait_type": "Driver", "value": "sweaty" },
+    { "trait_type": "Whip", "value": "vespa" },
+    { "trait_type": "Appearance ", "value": "flattened" },
+    { "trait_type": "Aroma (Italian)", "value": "delizioso" },
+    { "trait_type": "Aroma (English)", "value": "fresh" },
+    { "trait_type": "Pizza ", "value": "pita" },
+    { "trait_type": "Pizza Personality ", "value": "chatty chad " }
+  ]
+}

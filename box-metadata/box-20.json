@@ -1,1 +1,14 @@
-{"name": "Over the Toppings", "description": "Over the toppings, under the cheese.", "image": "https://ipfs.io/ipfs/QmZiwTr2goZ236ARHZ1RLpVdBErWKAun4RU3fh9CjPeYuv", "attributes": [{"trait_type": "Driver", "value": "handsome"}, {"trait_type": "Whip", "value": "Bugatti Chiron"}, {"trait_type": "Appearance ", "value": "compostable"}, {"trait_type": "Aroma (Italian)", "value": "delizioso"}, {"trait_type": "Aroma (English)", "value": "bacon"}, {"trait_type": "Pizza ", "value": "thin crust"}, {"trait_type": "Pizza Personality ", "value": "cool as a cucumber "}]}
+{
+  "name": "Over the Toppings",
+  "description": "Over the toppings, under the cheese.",
+  "image": "https://ipfs.io/ipfs/QmZiwTr2goZ236ARHZ1RLpVdBErWKAun4RU3fh9CjPeYuv",
+  "attributes": [
+    { "trait_type": "Driver", "value": "drunk" },
+    { "trait_type": "Whip", "value": "UFO" },
+    { "trait_type": "Appearance ", "value": "corrugated" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "focaccia" },
+    { "trait_type": "Pizza Personality ", "value": "chatty chad " }
+  ]
+}

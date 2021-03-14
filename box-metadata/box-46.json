@@ -1,1 +1,14 @@
-{"name": "Berry Bukkake", "description": "Berry Purees splattered all over the pizza, oozing out of the crust, dripping from each slice", "image": "https://ipfs.io/ipfs/QmaAUtGHb3bRyuSpnzxnKZSfAt2Zx2iNqcdcBZJHe21Jtw", "attributes": [{"trait_type": "Driver", "value": "old"}, {"trait_type": "Whip", "value": "parachute"}, {"trait_type": "Appearance ", "value": "flattened"}, {"trait_type": "Aroma (Italian)", "value": "fresco"}, {"trait_type": "Aroma (English)", "value": "garlic-y"}, {"trait_type": "Pizza ", "value": "deepdish"}, {"trait_type": "Pizza Personality ", "value": "happy go lucky"}]}
+{
+  "name": "Berry Bukkake",
+  "description": "Berry Purees splattered all over the pizza, oozing out of the crust, dripping from each slice",
+  "image": "https://ipfs.io/ipfs/QmaAUtGHb3bRyuSpnzxnKZSfAt2Zx2iNqcdcBZJHe21Jtw",
+  "attributes": [
+    { "trait_type": "Driver", "value": "handsome" },
+    { "trait_type": "Whip", "value": "Bugatti Chiron" },
+    { "trait_type": "Appearance ", "value": "dented" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "mustard" },
+    { "trait_type": "Pizza ", "value": "chewy" },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

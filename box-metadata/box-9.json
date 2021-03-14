@@ -1,1 +1,14 @@
-{"name": "Pretty Pizza", "description": " Buy me pizza and tell me I'm pretty", "image": "https://ipfs.io/ipfs/Qmf2gQPsXn82ajQ9aaBxtSW6WTqQFSa1t7Kmi8oWtzy6oq", "attributes": [{"trait_type": "Driver", "value": "late"}, {"trait_type": "Whip", "value": "Kawasaki Ninja H2R"}, {"trait_type": "Appearance ", "value": "pristine "}, {"trait_type": "Aroma (Italian)", "value": "puzzolente"}, {"trait_type": "Aroma (English)", "value": "mustard"}, {"trait_type": "Pizza ", "value": "extra crust "}, {"trait_type": "Pizza Personality ", "value": "real funny guy "}]}
+{
+  "name": "Pretty Pizza",
+  "description": " Buy me pizza and tell me I'm pretty",
+  "image": "https://ipfs.io/ipfs/Qmf2gQPsXn82ajQ9aaBxtSW6WTqQFSa1t7Kmi8oWtzy6oq",
+  "attributes": [
+    { "trait_type": "Driver", "value": "late" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "magnificent" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

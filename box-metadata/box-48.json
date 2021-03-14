@@ -1,1 +1,14 @@
-{"name": "Solidarity for Suckers", "description": "Pizza with Lollipops... 99% of profit goes to people who can't make mortgage payments", "image": "https://ipfs.io/ipfs/QmR3neR1ygpYL5pwTfEtLQHvJmU1jtpSFdR89FHJ3rjvmG", "attributes": [{"trait_type": "Driver", "value": "loud"}, {"trait_type": "Whip", "value": "jetpack"}, {"trait_type": "Appearance ", "value": "banged-up"}, {"trait_type": "Aroma (Italian)", "value": "non chiedere"}, {"trait_type": "Aroma (English)", "value": "citrus"}, {"trait_type": "Pizza ", "value": "thin crust"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "Solidarity for Suckers",
+  "description": "Pizza with Lollipops... 99% of profit goes to people who can't make mortgage payments",
+  "image": "https://ipfs.io/ipfs/QmR3neR1ygpYL5pwTfEtLQHvJmU1jtpSFdR89FHJ3rjvmG",
+  "attributes": [
+    { "trait_type": "Driver", "value": "sweaty" },
+    { "trait_type": "Whip", "value": "wings of an angel" },
+    { "trait_type": "Appearance ", "value": "thick" },
+    { "trait_type": "Aroma (Italian)", "value": "puzzolente" },
+    { "trait_type": "Aroma (English)", "value": "bacon" },
+    { "trait_type": "Pizza ", "value": "cake" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

@@ -1,1 +1,14 @@
-{"name": "Mom, Where's my Pony?", "description": "Birthday Pizza with andalusian donkey sausage for children who are into ponies", "image": "https://ipfs.io/ipfs/QmSaciSCjcm43W1q5LeT7jfsuUi5D1gUCAVG67uSrXSVC7", "attributes": [{"trait_type": "Driver", "value": "old"}, {"trait_type": "Whip", "value": "lambo"}, {"trait_type": "Appearance ", "value": "pristine "}, {"trait_type": "Aroma (Italian)", "value": "puzzolente"}, {"trait_type": "Aroma (English)", "value": "garlic-y"}, {"trait_type": "Pizza ", "value": "pumpernickel"}, {"trait_type": "Pizza Personality ", "value": "mysterious "}]}
+{
+  "name": "Mom, Where's my Pony?",
+  "description": "Birthday Pizza with andalusian donkey sausage for children who are into ponies",
+  "image": "https://ipfs.io/ipfs/QmSaciSCjcm43W1q5LeT7jfsuUi5D1gUCAVG67uSrXSVC7",
+  "attributes": [
+    { "trait_type": "Driver", "value": "hipster" },
+    { "trait_type": "Whip", "value": "stretch limo" },
+    { "trait_type": "Appearance ", "value": "heavy" },
+    { "trait_type": "Aroma (Italian)", "value": "superbo" },
+    { "trait_type": "Aroma (English)", "value": "flowery" },
+    { "trait_type": "Pizza ", "value": "butter crust" },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

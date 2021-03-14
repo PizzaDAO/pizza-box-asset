@@ -1,1 +1,14 @@
-{"name": "La Dolce Far Niente", "description": "The margaritha pizza that does nothing ", "image": "https://ipfs.io/ipfs/QmQ6uNjYE3sctbX5CgMEE6Dw6J23r9yPQvoNzRfdCJtjvK", "attributes": [{"trait_type": "Driver", "value": "hipster"}, {"trait_type": "Whip", "value": "stretch limo"}, {"trait_type": "Appearance ", "value": "used"}, {"trait_type": "Aroma (Italian)", "value": "paradiso"}, {"trait_type": "Aroma (English)", "value": "delicious"}, {"trait_type": "Pizza ", "value": "pita"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "The ABPs of Pizza",
+  "description": "It's hard to spell with your mouth full.",
+  "image": "https://ipfs.io/ipfs/QmQ6uNjYE3sctbX5CgMEE6Dw6J23r9yPQvoNzRfdCJtjvK",
+  "attributes": [
+    { "trait_type": "Driver", "value": "your crush " },
+    { "trait_type": "Whip", "value": "1972 Ford Pinto" },
+    { "trait_type": "Appearance ", "value": "used" },
+    { "trait_type": "Aroma (Italian)", "value": "autobus" },
+    { "trait_type": "Aroma (English)", "value": "garlic-y" },
+    { "trait_type": "Pizza ", "value": "focaccia" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

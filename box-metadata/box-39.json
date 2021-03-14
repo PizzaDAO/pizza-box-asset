@@ -1,1 +1,14 @@
-{"name": "Cherry Pie", "description": "The sweetest sauce dowsed in Extra Virgin Olive Oil.", "image": "https://ipfs.io/ipfs/QmPMprTeMBs5U7rzKBx9LwY5AM25k78fgKyKH3utL8ZS5F", "attributes": [{"trait_type": "Driver", "value": "clumsy"}, {"trait_type": "Whip", "value": "1972 Ford Pinto"}, {"trait_type": "Appearance ", "value": "grease-stained "}, {"trait_type": "Aroma (Italian)", "value": "fiorito"}, {"trait_type": "Aroma (English)", "value": "mustard"}, {"trait_type": "Pizza ", "value": "stuffed crust"}, {"trait_type": "Pizza Personality ", "value": "good listener "}]}
+{
+  "name": "Cherry Pie",
+  "description": "The sweetest sauce dowsed in Extra Virgin Olive Oil... or strawberries.",
+  "image": "https://ipfs.io/ipfs/QmPMprTeMBs5U7rzKBx9LwY5AM25k78fgKyKH3utL8ZS5F",
+  "attributes": [
+    { "trait_type": "Driver", "value": "loud" },
+    { "trait_type": "Whip", "value": "1979 AMC Pacer" },
+    { "trait_type": "Appearance ", "value": "upside down " },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "stinky" },
+    { "trait_type": "Pizza ", "value": "tatertot " },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

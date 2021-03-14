@@ -1,1 +1,14 @@
-{"name": "The Pietrix", "description": "Unfortunately, no one can be told what the Pietrix is. You have to eat it for yourself", "image": "https://ipfs.io/ipfs/QmPzHDYtWpxfcMPpmu7fYugyLRDoSwoHkusKQ42YVSRGoA", "attributes": [{"trait_type": "Driver", "value": "hipster"}, {"trait_type": "Whip", "value": "McLaren F1"}, {"trait_type": "Appearance ", "value": "biodegradable "}, {"trait_type": "Aroma (Italian)", "value": "magnifico"}, {"trait_type": "Aroma (English)", "value": "stinky"}, {"trait_type": "Pizza ", "value": "tatertot "}, {"trait_type": "Pizza Personality ", "value": "good listener "}]}
+{
+  "name": "The Pietrix",
+  "description": "Unfortunately, no one can be told what the Pietrix is. You have to eat it for yourself",
+  "image": "https://ipfs.io/ipfs/QmPzHDYtWpxfcMPpmu7fYugyLRDoSwoHkusKQ42YVSRGoA",
+  "attributes": [
+    { "trait_type": "Driver", "value": "under-age" },
+    { "trait_type": "Whip", "value": "Tata Tigor" },
+    { "trait_type": "Appearance ", "value": "compostable" },
+    { "trait_type": "Aroma (Italian)", "value": "straordinario" },
+    { "trait_type": "Aroma (English)", "value": "yummy " },
+    { "trait_type": "Pizza ", "value": "corn bread" },
+    { "trait_type": "Pizza Personality ", "value": "smort boi " }
+  ]
+}

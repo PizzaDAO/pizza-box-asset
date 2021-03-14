@@ -1,1 +1,14 @@
-{"name": "The Black Olive", "description": "An infamous pizza that was the favorite of Black Beard the Pirate.", "image": "https://ipfs.io/ipfs/QmbH3DyXLQqimcYBwt82EiupEmNHuXeZJD5ihaDXJMnwtC", "attributes": [{"trait_type": "Driver", "value": "your crush "}, {"trait_type": "Whip", "value": "bicycle"}, {"trait_type": "Appearance ", "value": "paper"}, {"trait_type": "Aroma (Italian)", "value": "aglio pesante "}, {"trait_type": "Aroma (English)", "value": "citrus"}, {"trait_type": "Pizza ", "value": "pretzel "}, {"trait_type": "Pizza Personality ", "value": "smort boi "}]}
+{
+  "name": "The Black Olive",
+  "description": "An infamous pizza that was the favorite of Black Beard the Pirate.",
+  "image": "https://ipfs.io/ipfs/QmbH3DyXLQqimcYBwt82EiupEmNHuXeZJD5ihaDXJMnwtC",
+  "attributes": [
+    { "trait_type": "Driver", "value": "texting" },
+    { "trait_type": "Whip", "value": "Aston Martin" },
+    { "trait_type": "Appearance ", "value": "paper" },
+    { "trait_type": "Aroma (Italian)", "value": "autobus" },
+    { "trait_type": "Aroma (English)", "value": "delicious" },
+    { "trait_type": "Pizza ", "value": "crispy" },
+    { "trait_type": "Pizza Personality ", "value": "hot tempered" }
+  ]
+}

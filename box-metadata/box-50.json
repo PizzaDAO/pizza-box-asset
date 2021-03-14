@@ -1,1 +1,14 @@
-{"name": "Release the Kraken", "description": "live squid on pizza, dancing (Oldboy)", "image": "https://ipfs.io/ipfs/QmZS37qmcgZ919HfpKQggkfJVfT3frQ2vRqZnvoYb6quZY", "attributes": [{"trait_type": "Driver", "value": "your crush "}, {"trait_type": "Whip", "value": "1987 toyota tacoma"}, {"trait_type": "Appearance ", "value": "banged-up"}, {"trait_type": "Aroma (Italian)", "value": "delizioso"}, {"trait_type": "Aroma (English)", "value": "mustard"}, {"trait_type": "Pizza ", "value": "saucy"}, {"trait_type": "Pizza Personality ", "value": "happy go lucky"}]}
+{
+  "name": "Release the Kraken",
+  "description": "live squid on pizza, dancing (Oldboy)",
+  "image": "https://ipfs.io/ipfs/QmZS37qmcgZ919HfpKQggkfJVfT3frQ2vRqZnvoYb6quZY",
+  "attributes": [
+    { "trait_type": "Driver", "value": "lazy" },
+    { "trait_type": "Whip", "value": "Aston Martin" },
+    { "trait_type": "Appearance ", "value": "heavy" },
+    { "trait_type": "Aroma (Italian)", "value": "agrumi" },
+    { "trait_type": "Aroma (English)", "value": "delicious" },
+    { "trait_type": "Pizza ", "value": "tatertot " },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

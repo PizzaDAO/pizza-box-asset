@@ -1,1 +1,14 @@
-{"name": "Pineapple Express", "description": "Its almost a shame to eat it. It's like killing a unicorn, with like, a bomb", "image": "https://ipfs.io/ipfs/QmcAKd9RCLbTjadfS4B6qUaaxxo1LGB2h44PszMD3a2KWZ", "attributes": [{"trait_type": "Driver", "value": "hipster"}, {"trait_type": "Whip", "value": "UFO"}, {"trait_type": "Appearance ", "value": "dented"}, {"trait_type": "Aroma (Italian)", "value": "delizioso"}, {"trait_type": "Aroma (English)", "value": "bacon"}, {"trait_type": "Pizza ", "value": "butter crust"}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "Pineapple Express",
+  "description": "Its almost a shame to eat it. It's like killing a unicorn, with like, a bomb",
+  "image": "https://ipfs.io/ipfs/QmcAKd9RCLbTjadfS4B6qUaaxxo1LGB2h44PszMD3a2KWZ",
+  "attributes": [
+    { "trait_type": "Driver", "value": "charming" },
+    { "trait_type": "Whip", "value": "UFO" },
+    { "trait_type": "Appearance ", "value": "banged-up" },
+    { "trait_type": "Aroma (Italian)", "value": "mostarda" },
+    { "trait_type": "Aroma (English)", "value": "superb" },
+    { "trait_type": "Pizza ", "value": "challah" },
+    { "trait_type": "Pizza Personality ", "value": "cool as a cucumber " }
+  ]
+}

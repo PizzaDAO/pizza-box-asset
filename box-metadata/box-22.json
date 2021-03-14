@@ -1,1 +1,14 @@
-{"name": "That's Amore", "description": "That's amore!", "image": "https://ipfs.io/ipfs/QmWo5GYBk4VrdCEmEHYK9XUWcTgpakhdm1Kr92MsP7ErcN", "attributes": [{"trait_type": "Driver", "value": "sweaty"}, {"trait_type": "Whip", "value": "lambo"}, {"trait_type": "Appearance ", "value": "paper"}, {"trait_type": "Aroma (Italian)", "value": "fresco"}, {"trait_type": "Aroma (English)", "value": "garlic-y"}, {"trait_type": "Pizza ", "value": "stuffed crust"}, {"trait_type": "Pizza Personality ", "value": "do u even lift, bro?"}]}
+{
+  "name": "That's Amore",
+  "description": "That's amore!",
+  "image": "https://ipfs.io/ipfs/QmWo5GYBk4VrdCEmEHYK9XUWcTgpakhdm1Kr92MsP7ErcN",
+  "attributes": [
+    { "trait_type": "Driver", "value": "lazy" },
+    { "trait_type": "Whip", "value": "jetpack" },
+    { "trait_type": "Appearance ", "value": "banged-up" },
+    { "trait_type": "Aroma (Italian)", "value": "bacon" },
+    { "trait_type": "Aroma (English)", "value": "superb" },
+    { "trait_type": "Pizza ", "value": "pita" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}

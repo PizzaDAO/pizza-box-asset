@@ -1,1 +1,14 @@
-{"name": "Pizzatoru", "description": "Cheese and sweet potato", "image": "https://ipfs.io/ipfs/QmVgSoDhfh1wFEf2cR1bWWvscfebZkF8a4kG1BxsVFUdJK", "attributes": [{"trait_type": "Driver", "value": "sweaty"}, {"trait_type": "Whip", "value": "bicycle"}, {"trait_type": "Appearance ", "value": "dented"}, {"trait_type": "Aroma (Italian)", "value": "aglio pesante "}, {"trait_type": "Aroma (English)", "value": "yummy "}, {"trait_type": "Pizza ", "value": "pretzel "}, {"trait_type": "Pizza Personality ", "value": "smug as a rug"}]}
+{
+  "name": "Pizzatoru",
+  "description": "Cheese and sweet potato",
+  "image": "https://ipfs.io/ipfs/QmVgSoDhfh1wFEf2cR1bWWvscfebZkF8a4kG1BxsVFUdJK",
+  "attributes": [
+    { "trait_type": "Driver", "value": "funny" },
+    { "trait_type": "Whip", "value": "1968 Oldsmobile Cutlass" },
+    { "trait_type": "Appearance ", "value": "strong" },
+    { "trait_type": "Aroma (Italian)", "value": "fiorito" },
+    { "trait_type": "Aroma (English)", "value": "extraordinary" },
+    { "trait_type": "Pizza ", "value": "glutten free" },
+    { "trait_type": "Pizza Personality ", "value": "rude dude" }
+  ]
+}

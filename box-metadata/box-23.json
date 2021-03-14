@@ -1,1 +1,14 @@
-{"name": "Pizza'ahoy", "description": "Yarrr! Calling all pizza pirates on the high sea! Treasure is near!", "image": "https://ipfs.io/ipfs/QmQexuV2gcfbYKqqG7hbbUVnaDXvc3oHFpjQP3BeGBUKVv", "attributes": [{"trait_type": "Driver", "value": "texting"}, {"trait_type": "Whip", "value": "McLaren F1"}, {"trait_type": "Appearance ", "value": "grease-stained "}, {"trait_type": "Aroma (Italian)", "value": "fiorito"}, {"trait_type": "Aroma (English)", "value": "mustard"}, {"trait_type": "Pizza ", "value": "crispy"}, {"trait_type": "Pizza Personality ", "value": "happy go lucky"}]}
+{
+  "name": "Pizza'ahoy",
+  "description": "Yarrr! Calling all pizza pirates on the high sea! Treasure is near!",
+  "image": "https://ipfs.io/ipfs/QmQexuV2gcfbYKqqG7hbbUVnaDXvc3oHFpjQP3BeGBUKVv",
+  "attributes": [
+    { "trait_type": "Driver", "value": "suave" },
+    { "trait_type": "Whip", "value": "motorcycle" },
+    { "trait_type": "Appearance ", "value": "grease-stained " },
+    { "trait_type": "Aroma (Italian)", "value": "delizioso" },
+    { "trait_type": "Aroma (English)", "value": "mustard" },
+    { "trait_type": "Pizza ", "value": "NY Style" },
+    { "trait_type": "Pizza Personality ", "value": "real funny guy " }
+  ]
+}
