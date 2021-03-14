@@ -26,12 +26,15 @@ def main ():
   # create a metadata .json file for each box art style
   meta_data = json.load(open('pizza_box.json'))
   for count, box in enumerate(box_content_ids):
-    with open('./box-metadata/box-'+ str(count+1) + '.json', 'w') as output:
+    with open('./box-metadata/box-'+ str(count) + '.json', 'w') as output:
       meta_data['image'] = path_root+box
-      meta_data['attributes'] = {}
+      meta_data['attributes'] = []
       for attrib in attribs:
         #print (meta_data['attributes'])
-        meta_data['attributes'][attrib] = random.choice(attribs[attrib])
+        meta_data['attributes'].append({
+          "trait_type": attrib,
+          "value": random.choice(attribs[attrib])
+          })
       json.dump(meta_data, output)
 
 
