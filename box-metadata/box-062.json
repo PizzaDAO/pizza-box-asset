@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "A Wee Slice of Heaven",
+    "description": "Ice cream on pizza. Covered in sprinkles. ",
+    "image": "https://ipfs.io/ipfs/Qmf63kqBqXvqLdHgP9zEomTDQxP2gcf1wjYT4sDEXXK93Y",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "drunk"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Tata Tigor"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "thick"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fresco"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "neapolitan"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "patient and understanding"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 62
         }
     ]
 }

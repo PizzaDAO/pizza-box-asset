@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Italian Job",
+    "description": "Tomato, Basil, Mozzarella. This pizza will be hustled. ",
+    "image": "https://ipfs.io/ipfs/QmQXhFazWKgfw1j44zbV5HtuvVsX4v4MtgZ4M5jPh8LMzr",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,31 +9,31 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "McLaren F1"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "used"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "aglio pesante "
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "yummy "
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pipping hot "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "rude dude"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 68
         }
     ]
 }

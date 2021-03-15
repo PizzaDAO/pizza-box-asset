@@ -1,27 +1,27 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Cereal Killer",
+    "description": "Topped with a choice of three breakfast cereals of your choice. Must be eaten with a spoon.",
+    "image": "https://ipfs.io/ipfs/QmZTXpY1XwkTVB2JGFB6XJdPe4DfbXtFhxPQ6ZjcFRMH9b",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "wings of an angel"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "flattened"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "autobus"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "flowery"
         },
         {
             "trait_type": "Pizza ",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "rude dude"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 64
         }
     ]
 }

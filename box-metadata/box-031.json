@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Basil 'n Peal",
+    "description": "Fresh mozzarella and basil, Mmmm!",
+    "image": "https://ipfs.io/ipfs/QmaQ6DNhQv7AzDBCBFWTTJ7ZtHSqfNzFkfdrYVPHnNwrW7",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "funny"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "motorcycle"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "cake"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "cool as a cucumber "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 31
         }
     ]
 }

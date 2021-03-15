@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Berry Bukkake",
+    "description": "Berry Purees splattered all over the pizza, oozing out of the crust, dripping from each slice",
+    "image": "https://ipfs.io/ipfs/QmT996hebcRh54q4xZknwGq9yQ7PxUH19UGvSq81cCm52A",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,19 +9,19 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "parachute"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "paper"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "magnificent"
         },
         {
             "trait_type": "Pizza ",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 46
         }
     ]
 }

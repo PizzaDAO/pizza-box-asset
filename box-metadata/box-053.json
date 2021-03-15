@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The ABPs of Pizza",
+    "description": "It's hard to spell with your mouth full.",
+    "image": "https://ipfs.io/ipfs/QmdQR65bJA1zgmbtR7h3dyDZSTqxXAPpQ44MCATPiZLLUL",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "stretch limo"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "used"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fiorito"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "yummy "
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "thin crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 53
         }
     ]
 }

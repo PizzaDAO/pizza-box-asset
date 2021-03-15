@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pimja",
+    "description": "A pizza with dogecoin on it. ",
+    "image": "https://ipfs.io/ipfs/QmXD8xmKUNkxi7r7KLm7KyCZk33tAXpRC5g37StjShyQS5",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,7 +9,7 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1978 Trans Am Firebird or Camero"
         },
         {
             "trait_type": "Appearance ",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "aglio pesante "
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "city bus"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "neapolitan"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 71
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pizzarino",
+    "description": "Howdily Doodily Pizzarino.",
+    "image": "https://ipfs.io/ipfs/QmTwUb3PSDH2zxizc1bqAxLXLDdb2H3Rna4R33L9UBFkDX",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "your crush "
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "bicycle"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "grease-stained "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "perfect"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pretzel "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 33
         }
     ]
 }

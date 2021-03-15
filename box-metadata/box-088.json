@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Bite After Byte",
+    "description": "Buy a byte, eat a bite",
+    "image": "https://ipfs.io/ipfs/QmdsjqqRQohuTXyqAU4zQtUSckYoQy3bCazQGvQf1itSVa",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "funny"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "drone"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "used"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "puzzolente"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "heaven"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "butter crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "do u even lift, bro?"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 88
         }
     ]
 }

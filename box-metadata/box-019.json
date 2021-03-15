@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Prime",
+    "description": "Pizza in disguise. Or is it in the skies?",
+    "image": "https://ipfs.io/ipfs/QmTUAMCZu2HP9NveMu5Q56KHAJRUSN1yMaxK1dKCZpVH38",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,31 +9,31 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "stretch limo"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "paper"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "mostarda"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "don't ask"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "soggy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "cool as a cucumber "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 19
         }
     ]
 }

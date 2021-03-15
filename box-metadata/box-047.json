@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Mom, Where's my Pony?",
+    "description": "Birthday Pizza with andalusian donkey sausage for children who are into ponies",
+    "image": "https://ipfs.io/ipfs/QmSaciSCjcm43W1q5LeT7jfsuUi5D1gUCAVG67uSrXSVC7",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "clumsy"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Kawasaki Ninja H2R"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "yummy "
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pita"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "silly like philly"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 47
         }
     ]
 }

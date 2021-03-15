@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pizza Poppin",
+    "description": "Rockin toppings to get you poppin",
+    "image": "https://ipfs.io/ipfs/QmU8ps9LrP4GWsDf4oKVkuETdgctpmagGQhknKEKMCXHNY",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "funny"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Tesla Truck"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "folded"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fiorito"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "delicious"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "soggy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "happy go lucky"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 89
         }
     ]
 }

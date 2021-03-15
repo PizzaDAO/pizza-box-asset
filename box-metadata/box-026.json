@@ -1,19 +1,19 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Rise of Crypto",
+    "description": "The earth opened up revealing the true source of all power. Admission is burning fiat.",
+    "image": "https://ipfs.io/ipfs/QmVqpnPDzpqcjwagCS8x4WrnCEAMNvHJdeA8QBY75XahJr",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "loud"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1978 Trans Am Firebird or Camero"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "flattened"
         },
         {
             "trait_type": "Aroma (Italian)",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "fresh"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "focaccia"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "patient and understanding"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 26
         }
     ]
 }

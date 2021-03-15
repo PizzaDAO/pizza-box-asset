@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pepperoni Invaders",
+    "description": "Let the flavor invade your space buds!",
+    "image": "https://ipfs.io/ipfs/QmWoCj78NSawhjk2QAJpECLeQbh86dwb1VW1EcagfpgiPd",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "under-age"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "UFO"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "heavy"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "magnifico"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "heaven"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "thin crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 99
         }
     ]
 }

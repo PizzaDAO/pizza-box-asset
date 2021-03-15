@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Gigapizzarous",
+    "description": "A giant enormous massive pizza slice",
+    "image": "https://ipfs.io/ipfs/QmXD8xmKUNkxi7r7KLm7KyCZk33tAXpRC5g37StjShyQS5",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "naked"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "stretch limo"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "banged-up"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "yummy "
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "scilian"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "cool as a cucumber "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 70
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "More CowBell",
+    "description": "I've got a fever, and the only prescription is more cowbell.",
+    "image": "https://ipfs.io/ipfs/QmQCECQ6Nh1Kj1y9eNEuga7WQsBY2ZJM67MePM5JSKf8g9",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "suave"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "drone"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "magnifico"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "yummy "
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "chewy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 76
         }
     ]
 }

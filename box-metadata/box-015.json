@@ -1,0 +1,39 @@
+{
+    "name": "Oven Baked Boi",
+    "description": "The smell of a freshly baked pie fills your nostrils. You tremble as you lift a slice. It looks like the best pizza you have ever eaten. You take a bit. It is. It's delicious.",
+    "image": "https://ipfs.io/ipfs/Qmetie6YZiVFZ6X5mJsnbJivRZZv7HoGSPfs5AqN4wSA8Z",
+    "attributes": [
+        {
+            "trait_type": "Driver",
+            "value": "your crush "
+        },
+        {
+            "trait_type": "Whip",
+            "value": "Kawasaki Ninja H2R"
+        },
+        {
+            "trait_type": "Appearance ",
+            "value": "thick"
+        },
+        {
+            "trait_type": "Aroma (Italian)",
+            "value": "straordinario"
+        },
+        {
+            "trait_type": "Aroma (English)",
+            "value": "magnificent"
+        },
+        {
+            "trait_type": "Pizza ",
+            "value": "neapolitan"
+        },
+        {
+            "trait_type": "Pizza Personality ",
+            "value": "do u even lift, bro?"
+        },
+        {
+            "trait_type": "number",
+            "value": 15
+        }
+    ]
+}

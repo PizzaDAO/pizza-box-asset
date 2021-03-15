@@ -1,15 +1,15 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Filler",
+    "description": "Hope you\u2019re wearing elasticated pants",
+    "image": "https://ipfs.io/ipfs/QmTFeh2JvL6tB6EjiapjFfexzhycLjKxgmbRdc8FT7iomK",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "naked"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1968 Oldsmobile Cutlass"
         },
         {
             "trait_type": "Appearance ",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "favoloso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "perfect"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "extra crust "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "patient and understanding"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 85
         }
     ]
 }

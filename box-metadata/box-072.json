@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Teenage Mutant Pizza",
+    "description": "An 80s classic",
+    "image": "https://ipfs.io/ipfs/Qmc9oPVqdAL3JJqra6N7YoD8Mm1MPhhZeBncVS78Jvu5sA",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "loud"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1972 Ford Pinto"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "paper"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "superbo"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "garlic-y"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "NY Style"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "happy go lucky"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 72
         }
     ]
 }

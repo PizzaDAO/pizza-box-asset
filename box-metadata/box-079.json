@@ -1,19 +1,19 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Moonpie",
+    "description": "If the moon was made out of BBQ spare ribs would you eat it?",
+    "image": "https://ipfs.io/ipfs/QmVat1xNq4D1ivEg4aUYUVax78RYcvmkrcv2zutDTDGurs",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "lazy"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "rocket car"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "extraordinary"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "focaccia"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 79
         }
     ]
 }

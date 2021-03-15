@@ -1,15 +1,15 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Lofty Heights",
+    "description": "All of the ingredients are stacked in the centre of the pizza, leaving 95% of the pizza base untopped. For obvious reasons this pizza comes in a very tall, pyramid shaped pizza box.",
+    "image": "https://ipfs.io/ipfs/QmVPkX8LLqJuRZwYDd5cpxTxRpqZoHJw17AkDVAPXvosiR",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "rocket car"
         },
         {
             "trait_type": "Appearance ",
@@ -17,23 +17,23 @@
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "citrus"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pumpernickel"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 61
         }
     ]
 }

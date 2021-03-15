@@ -1,31 +1,31 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Come to Cheesus",
+    "description": "In your time of darkness, accept Cheesus Christ as your Lord and Savor",
+    "image": "https://ipfs.io/ipfs/QmQXZ5UiMD38iWnL1KAdqLdVKwZZcfA98FGzwyo77Yu1DC",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "old"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1987 toyota tacoma"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "biodegradable "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "superbo"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "magnificent"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "tatertot "
         },
         {
             "trait_type": "Pizza Personality ",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 5
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Doughbie Brothers",
+    "description": "Listen to the Pizza",
+    "image": "https://ipfs.io/ipfs/QmdmziX9oo31mbKw9vxp6gTtiGwD56EqXFjpn3wDBM6pk8",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "hipster"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "DMC DeLoreon "
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "thick"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "paradiso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "stinky"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "corn bread"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 36
         }
     ]
 }

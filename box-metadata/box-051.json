@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Alabama Jammer",
+    "description": "Pizza topped with closely related vegetable groups.",
+    "image": "https://ipfs.io/ipfs/QmW73VzNaKPX23EM2Npa737dHBZYzWv1F4MMxn1czsozLn",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "texting"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Kawasaki Ninja H2R"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "banged-up"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "paradiso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "flowery"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "chewy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "mysterious "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 51
         }
     ]
 }

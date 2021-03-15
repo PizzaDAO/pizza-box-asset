@@ -1,31 +1,31 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Doughfellas",
+    "description": "What do you mean funny? Like a pizza Do I amuse you?!",
+    "image": "https://ipfs.io/ipfs/QmTrx8SyqEeQUfoggFcAa6cVMCrqp5nt7a8P8GS4MYjmb3",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "smelly"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "vespa"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "pristine "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "fresh"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "challah"
         },
         {
             "trait_type": "Pizza Personality ",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 14
         }
     ]
 }

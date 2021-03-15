@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Clockwork Pizza",
+    "description": "Pizza with Orange slices arranged clockwise on 3, 6, 9 & 12. ",
+    "image": "https://ipfs.io/ipfs/QmRvzSvmdd8f51scCBb48FZ1HNzDidh1EdS7GTfj5rFSqZ",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "your crush "
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "bicycle"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "used"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "agrumi"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "stinky"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "challah"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "cool as a cucumber "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 96
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Crimson Mist",
+    "description": "Lots of tomato with more tomato sprayed on top. Topped with chopped tomatoes and delivered by people dressed as tomatoes.",
+    "image": "https://ipfs.io/ipfs/QmYvNKEcFMXAncpX4HHuVNrJrLBGh2iwombz4CVLJBheAU",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "sweaty"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "drone"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "flattened"
         },
         {
             "trait_type": "Aroma (Italian)",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "thin crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "smort boi "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 60
         }
     ]
 }

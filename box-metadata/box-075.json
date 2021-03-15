@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Ma! The Meat Loaf!?",
+    "description": "Wedding Crashers",
+    "image": "https://ipfs.io/ipfs/QmRJ62oBB2vgDsGnpHhVgwqFeR4nRLhMVEHrgCjmR3prh2",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,23 +9,23 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Kawasaki Ninja H2R"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "biodegradable "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "don't ask"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "neapolitan"
         },
         {
             "trait_type": "Pizza Personality ",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 75
         }
     ]
 }

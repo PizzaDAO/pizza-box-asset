@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pizzazza!",
+    "description": "Pi pi pi pi pizzzzaaaza za za!",
+    "image": "https://ipfs.io/ipfs/QmYoir8fvsaM7hp56VR8ftNy4zZpXFptnSiHaZUChFgmFR",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "your crush "
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1972 Ford Pinto"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "corrugated"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "paradiso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "superb"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pipping hot "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "smug as a rug"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 28
         }
     ]
 }

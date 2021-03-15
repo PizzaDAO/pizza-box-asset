@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pandemic Pie",
+    "description": "So good, it's infectious!",
+    "image": "https://ipfs.io/ipfs/QmYb7xDT9JjA5eQvVQjx5xRHY38YBAu9PM4s7gn2cq7vGr",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "UFO"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "paper"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "aglio pesante "
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "superb"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "saucy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 12
         }
     ]
 }

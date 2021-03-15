@@ -1,19 +1,19 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "German Sausage Fest",
+    "description": "Wieners, Franks and Bratwursts with Sauerkraut and Sweet Mustard - for every dudes' night in. it's german tradition!",
+    "image": "https://ipfs.io/ipfs/QmWtvetN87YxG3VuLXqac1b3NALyosAC5VBCwcY5DBBuFd",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "sweaty"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1972 Ford Pinto"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "garlic-y"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "scilian"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "hot tempered"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 41
         }
     ]
 }

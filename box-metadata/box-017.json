@@ -1,19 +1,19 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "MEATeor ",
+    "description": "Meat the apocalypse. ",
+    "image": "https://ipfs.io/ipfs/QmUHQx423uXAxqHzB9rmcUU662Zcmt4nSjoSjGtC19KLnw",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "late"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "parachute"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "pristine "
         },
         {
             "trait_type": "Aroma (Italian)",
@@ -21,19 +21,19 @@
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "magnificent"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "stuffed crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "radical duddeee"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 17
         }
     ]
 }

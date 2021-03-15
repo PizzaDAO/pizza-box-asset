@@ -1,0 +1,39 @@
+{
+    "name": "Colonel Sanders Family Pie",
+    "description": "\u201cWell let me just quote the late-great Colonel Sanders, who said\u2026\u2019I\u2019m too drunk to taste this chicken.\u201d",
+    "image": "https://ipfs.io/ipfs/QmUiZE3ve9H1qPdQ3k5NMZ3AEG8GpGmzWGx5xzywkAN2vi",
+    "attributes": [
+        {
+            "trait_type": "Driver",
+            "value": "texting"
+        },
+        {
+            "trait_type": "Whip",
+            "value": "McLaren F1"
+        },
+        {
+            "trait_type": "Appearance ",
+            "value": "compostable"
+        },
+        {
+            "trait_type": "Aroma (Italian)",
+            "value": "magnifico"
+        },
+        {
+            "trait_type": "Aroma (English)",
+            "value": "magnificent"
+        },
+        {
+            "trait_type": "Pizza ",
+            "value": "NY Style"
+        },
+        {
+            "trait_type": "Pizza Personality ",
+            "value": "smort boi "
+        },
+        {
+            "trait_type": "number",
+            "value": 77
+        }
+    ]
+}

@@ -1,31 +1,31 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The 7-11",
+    "description": "Anytime you need that slice of heaven",
+    "image": "https://ipfs.io/ipfs/QmUUXMcMTpgsMjgGGGPQxom9fRBWZ1WmTHbnuzqiXeMBQc",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "stoned"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "wings of an angel"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "flattened"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pipping hot "
         },
         {
             "trait_type": "Pizza Personality ",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 87
         }
     ]
 }

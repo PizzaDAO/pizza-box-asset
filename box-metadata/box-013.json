@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Black Olive",
+    "description": "An infamous pizza that was the favorite of Black Beard the Pirate.",
+    "image": "https://ipfs.io/ipfs/QmbH3DyXLQqimcYBwt82EiupEmNHuXeZJD5ihaDXJMnwtC",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "naked"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "parachute"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "paradiso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "neapolitan"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 13
         }
     ]
 }

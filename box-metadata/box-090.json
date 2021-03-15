@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Into The Void",
+    "description": "Not all who wander are lost",
+    "image": "https://ipfs.io/ipfs/QmS6oJ5XgBtYPQLwMKGTwvUR5HbahUiR9kb1Bgakp6AcA9",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "your crush "
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "DMC DeLoreon "
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "bacon"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "citrus"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pumpernickel"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "rude dude"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 90
         }
     ]
 }

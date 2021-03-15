@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Fat Man's Feast",
+    "description": "All Deepfried Toppings for Fat Men, like me",
+    "image": "https://ipfs.io/ipfs/QmU8BUXyWVMDdiptLYHcsHS9ZpazbyBKvkmBecaxJdGs2V",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,31 +9,31 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Aston Martin"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "flattened"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "autobus"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "delicious"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "glutten free"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "radical duddeee"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 92
         }
     ]
 }

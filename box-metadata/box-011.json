@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pizza Pals",
+    "description": "You are a \"pizza\" my heart.",
+    "image": "https://ipfs.io/ipfs/Qma967xh6sm1qRBnXw1uYhmZiPkCZdrVnBf1wBh8LtSsYQ",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "loud"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "vespa"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "grease-stained "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "magnifico"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "garlic-y"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "butter crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "happy go lucky"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 11
         }
     ]
 }

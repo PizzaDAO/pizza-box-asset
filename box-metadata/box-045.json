@@ -1,7 +1,7 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "All American Quarter Blackend",
+    "description": "Scramble out of the pocket and burn hard down counter line for a hail mary",
+    "image": "https://ipfs.io/ipfs/Qma9JvGNhhXtAU88UvHqB18f5hgF7qtQxmmKvLuKnNy9NT",
     "attributes": [
         {
             "trait_type": "Driver",
@@ -9,31 +9,31 @@
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1972 Ford Pinto"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "covered in crayons"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "autobus"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "extraordinary"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "deepdish"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "do u even lift, bro?"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 45
         }
     ]
 }

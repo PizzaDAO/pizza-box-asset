@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Sheperds pie",
+    "description": "filled with candy canes and string cheese beards - Baa Baa",
+    "image": "https://ipfs.io/ipfs/QmeJBew8G2Rva7MC7eUQreeL46ZUUFNFTKpm4HXVCf2EUx",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "stoned"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1979 AMC Pacer"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "unbreakable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "puzzolente"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "mustard"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "tatertot "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 66
         }
     ]
 }

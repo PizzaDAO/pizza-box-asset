@@ -1,27 +1,27 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Cherry Pie",
+    "description": "The sweetest sauce dowsed in Extra Virgin Olive Oil... or strawberries.",
+    "image": "https://ipfs.io/ipfs/QmPwd9k83FiVf5nGgBokQnAUYsSbgzgEKwa3b3TE3aqxTb",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Tata Tigor"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "strong"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "agrumi"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "city bus"
         },
         {
             "trait_type": "Pizza ",
@@ -29,11 +29,11 @@
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "silly like philly"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 39
         }
     ]
 }

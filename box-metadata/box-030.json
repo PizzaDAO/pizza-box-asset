@@ -1,0 +1,39 @@
+{
+    "name": "The World Changer",
+    "description": "It all started when the ones who believed, the ones who relentlessly searched, were able to find it. When the world was in the fiat dark-ages, the Knights of Crypto.",
+    "image": "https://ipfs.io/ipfs/QmVe5JmeZgkk7UKnaXs6Ln21F2dWw7Fs8DvDmhpUbdgadL",
+    "attributes": [
+        {
+            "trait_type": "Driver",
+            "value": "stoned"
+        },
+        {
+            "trait_type": "Whip",
+            "value": "1968 Oldsmobile Cutlass"
+        },
+        {
+            "trait_type": "Appearance ",
+            "value": "strong"
+        },
+        {
+            "trait_type": "Aroma (Italian)",
+            "value": "delizioso"
+        },
+        {
+            "trait_type": "Aroma (English)",
+            "value": "don't ask"
+        },
+        {
+            "trait_type": "Pizza ",
+            "value": "stuffed crust"
+        },
+        {
+            "trait_type": "Pizza Personality ",
+            "value": "silly like philly"
+        },
+        {
+            "trait_type": "number",
+            "value": 30
+        }
+    ]
+}

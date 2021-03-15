@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Infinite Origin Recursive Pie",
+    "description": "This Pie will never be done and lives forever!",
+    "image": "https://ipfs.io/ipfs/QmRrMg2EkgRJ2GnYEoe4nJbMNGyRGbXbMjYCi26HR1NvgX",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "handsome"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1987 toyota tacoma"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "superbo"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "perfect"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "extra crust "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 0
         }
     ]
 }

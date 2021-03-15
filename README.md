@@ -20,3 +20,7 @@
 - Upload and pin those pizza_box.json files, following the same process as above and getting ipfs URIs for each  
 
 - Provide pizza_box.json URIs to smart contract team for inclusion in the pizza_reservations contract
+
+
+
+box 55 was removed from the data set.  it is excluded from the render even though it actaully gets generated

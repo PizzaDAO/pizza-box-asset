@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Paku Paku",
+    "description": "Sugoi!",
+    "image": "https://ipfs.io/ipfs/Qmb7PtznhxMDTeYSJB32iiyReUi8X8gGXsS83R2wW9dQ8D",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "smelly"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "UFO"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "paper"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fresco"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pretzel "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "mysterious "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 49
         }
     ]
 }

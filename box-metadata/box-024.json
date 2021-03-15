@@ -1,23 +1,23 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Pizzasmith",
+    "description": "Pizza forged by Norse Gods.",
+    "image": "https://ipfs.io/ipfs/QmW3CfMdUBQSFPmXGFNVEMkXrcJm1Y5QuaHid2NzxksaTZ",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "funny"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "wings of an angel"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "biodegradable "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fresco"
         },
         {
             "trait_type": "Aroma (English)",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "challah"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "rude dude"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 24
         }
     ]
 }

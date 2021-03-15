@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Shut Up I'm Eating Pizza",
+    "description": "The one you won't want to be interrupted over. Brave they are for getting between your pizza and you.",
+    "image": "https://ipfs.io/ipfs/QmVfBXkSzZWnf4nNHEE5cZLuWABhin4xgypRwjHFBXAJJM",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "old"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "McLaren F1"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "grease-stained "
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "non chiedere"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "city bus"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "glutten free"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "real funny guy "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 63
         }
     ]
 }

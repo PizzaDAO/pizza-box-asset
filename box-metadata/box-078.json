@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Candy Land ",
+    "description": "\u00a0\u201cWe elves try to stick to the four main food groups, candy, candy cane, candy corn, and syrup.\u201d\u00a0",
+    "image": "https://ipfs.io/ipfs/QmV3bsFE1ExRsNeVtku7hdRWwd8nqeR41m85eYXBNoEz6K",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "old"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1968 Oldsmobile Cutlass"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "autobus"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "bacon"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "corn bread"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "mysterious "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 78
         }
     ]
 }

@@ -1,0 +1,39 @@
+{
+    "name": "Minimum Viable Pizza",
+    "description": "The first and only pie minted directly from Shrimp's oven and the chef's choice. Take it or leave it, Shrimp don't care.",
+    "image": "https://ipfs.io/ipfs/QmNRMZQtpV61FtpcNrNLRYW3ksx6n7eDCmK8vSTcuFktEo",
+    "attributes": [
+        {
+            "trait_type": "Driver",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "Whip",
+            "value": "stretch limo"
+        },
+        {
+            "trait_type": "Appearance ",
+            "value": "covered in crayons"
+        },
+        {
+            "trait_type": "Aroma (Italian)",
+            "value": "autobus"
+        },
+        {
+            "trait_type": "Aroma (English)",
+            "value": "garlic-y"
+        },
+        {
+            "trait_type": "Pizza ",
+            "value": "stuffed crust"
+        },
+        {
+            "trait_type": "Pizza Personality ",
+            "value": "happy go lucky"
+        },
+        {
+            "trait_type": "number",
+            "value": 1
+        }
+    ]
+}

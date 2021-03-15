@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Healthy Option",
+    "description": "A pizza probably covered in inedible meme ingredients.",
+    "image": "https://ipfs.io/ipfs/QmRNo93qa1JW529e8WXaJ6JzpynWUq5HbZBKD2HeBKnA88",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "loud"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "wings of an angel"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "straordinario"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "magnificent"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "butter crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "hot tempered"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 43
         }
     ]
 }

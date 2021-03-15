@@ -1,23 +1,23 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "The Funky Anchovy",
+    "description": "Ew, what stinks? Cute anchovies!",
+    "image": "https://ipfs.io/ipfs/QmNwzKSPyvqKwRBVJKVgip1C1y2ujGySY5Q3QSRpV2pH9a",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "late"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "drone"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
@@ -25,15 +25,15 @@
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "butter crust"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "smort boi "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 10
         }
     ]
 }

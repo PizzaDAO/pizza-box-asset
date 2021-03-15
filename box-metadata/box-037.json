@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Molto Bene!",
+    "description": "Molto bene!",
+    "image": "https://ipfs.io/ipfs/QmVeSMzi2cUTkivFq7CWUhvjjp4wSMgn6b5Qrsx7ZegkEM",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "lazy"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1987 toyota tacoma"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "heavy"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "delizioso"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "heaven"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "cake"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "hot tempered"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 37
         }
     ]
 }

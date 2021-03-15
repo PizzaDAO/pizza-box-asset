@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Cheese Louise ",
+    "description": "all red toppings and cheese with red sauce",
+    "image": "https://ipfs.io/ipfs/QmbGjHM7GYnwwByeigxNmcpddpxafAwbb5cvjeSqTM6iP5",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "sweaty"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "Bugatti Chiron"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "dented"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "puzzolente"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "city bus"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "pretzel "
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "chatty chad "
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 98
         }
     ]
 }

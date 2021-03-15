@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "A Tangle of Wood",
+    "description": "Pizza with unconventional toppings.",
+    "image": "https://ipfs.io/ipfs/QmPLEqXwN6ToTGpSqTcT6KFU9ND2aivhn5hgmipR4XyMTg",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "smelly"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "1987 toyota tacoma"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "unbreakable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "fresco"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "don't ask"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "focaccia"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "smug as a rug"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 93
         }
     ]
 }

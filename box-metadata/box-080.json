@@ -1,39 +1,39 @@
 {
-    "name": "A Plate Ornate",
-    "description": "Toppings or decorations? What's the difference?",
-    "image": "https://ipfs.io/ipfs/Qmc9aXru1gshxoW5fxVX71h6ZddgYtpn3c5zRDGSNHzy7v",
+    "name": "Pineapple Express",
+    "description": "Its almost a shame to eat it. It's like killing a unicorn, with like, a bomb",
+    "image": "https://ipfs.io/ipfs/QmcAKd9RCLbTjadfS4B6qUaaxxo1LGB2h44PszMD3a2KWZ",
     "attributes": [
         {
             "trait_type": "Driver",
-            "value": "charming"
+            "value": "drunk"
         },
         {
             "trait_type": "Whip",
-            "value": "lambo"
+            "value": "drone"
         },
         {
             "trait_type": "Appearance ",
-            "value": "upside down "
+            "value": "compostable"
         },
         {
             "trait_type": "Aroma (Italian)",
-            "value": "perfezion"
+            "value": "autobus"
         },
         {
             "trait_type": "Aroma (English)",
-            "value": "fabulous"
+            "value": "perfect"
         },
         {
             "trait_type": "Pizza ",
-            "value": "crispy"
+            "value": "saucy"
         },
         {
             "trait_type": "Pizza Personality ",
-            "value": "good listener "
+            "value": "patient and understanding"
         },
         {
             "trait_type": "number",
-            "value": 100
+            "value": 80
         }
     ]
 }
